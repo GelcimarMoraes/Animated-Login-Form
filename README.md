@@ -3,9 +3,15 @@
 ![Texto Alternativo](https://raw.githubusercontent.com/GelcimarMoraes/Animated-Login-Form/main/bgs.png)
 
 <h3 align="center">💻 Projeto</h3>
-<p align="center">
-  Este projeto foi desenvolvido com base nos Tutorials do [w3schools](https://www.w3schools.com/)
+
+<div align="center">
+<p> 
+  
+  Este projeto foi desenvolvido com base nos Tutorials do [w3schools](https://www.w3schools.com/) 
+
 </p>
+</div>
+
 <br/><br/>
 <h3 align="center">🚀 Tecnologias</h3>
 <p align="center">
